@@ -1,0 +1,11 @@
+rsa
+linepy
+pytz
+html5lib
+googletrans
+gtts
+humanize
+humanfriendly
+bs4
+pytz
+pafy
