@@ -1,1 +1,1 @@
-workers: python3 login.py
+python3 login.py
