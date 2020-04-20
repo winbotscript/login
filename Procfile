@@ -1,1 +1,1 @@
-python3 login.py
+web: python3 login.py
